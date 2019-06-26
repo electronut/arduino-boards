@@ -109,19 +109,20 @@
           ]
         },
         {
-          "name": "Electronut labs nRF52832 boards",
-          "architecture": "nRF52832", 
-          "version": "0.1.1", 
+          "name": "Electronut labs nRF5 boards",
+          "architecture": "nRF5", 
+          "version": "0.3", 
           "category": "Contributed", 
           "help":{
             "online":"https://github.com/electronut/ElectronutLabs-bluey/issues"
           },
-          "url":"https://github.com/electronut/arduino-bluey/archive/v0.1.1.zip",
-          "archiveFileName":"v0.1.1.zip",
-          "checksum":"SHA-256:79b80607dd3637c6ba4e1919a72784c3f3e1ede82684bded7fa1d0aed4a2926d",
-          "size": "906219",
+          "url":"https://github.com/electronut/arduino-bluey/archive/v0.3.zip",
+          "archiveFileName":"arduino-bluey-0.3.zip",
+          "checksum":"SHA-256:11a1a1143439792f7c42af3017078ec7282a6119d1bf08ee10af299f9d2b3ae3",
+          "size": "1221343",
           "boards":[ 
-            {"name": "Electronut Labs bluey"}
+            {"name": "Electronut Labs bluey"},
+            {"name": "Electronut Labs Hackable_v2"}
           ],
           "toolsDependencies": [
             {
